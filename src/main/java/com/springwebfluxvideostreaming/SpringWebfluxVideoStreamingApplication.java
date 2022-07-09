@@ -31,11 +31,3 @@ public class SpringWebfluxVideoStreamingApplication {
     }
 
 }
-
-/**
- * twilio
- * Account SID: ACf3c4ab234fe24cdb63bd8ac851a072a4
- * Auth Token: 5227be86f752a951395c375d47a0a84e
- *
- *
- */
